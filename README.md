@@ -1,5 +1,5 @@
 # react-projects
-Learning projects
+Learning path
 
 React Course - Beginner's Tutorial for React JavaScript Library [2022]
 
